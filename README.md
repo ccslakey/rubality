@@ -2,6 +2,8 @@ Based on the idea that if you host data, they will come, this is a simple, api-o
 
 This api is a simple interface to transform that data into useable data for web applications. Since the Reality was intended to educate developers on ruby concepts and allow people easily accessible data, I hope that hosting this information will give others and myself a starting point to consume this vast amount of data.
 
+Please note that some search terms are case sensitive and information is taken from a third party gem. Make sure you cleanse or filter your results for incomplete data because this app won't!
+
 Example queries and responses
 
 /
